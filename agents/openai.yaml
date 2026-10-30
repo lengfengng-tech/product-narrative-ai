@@ -1,0 +1,4 @@
+interface:
+  display_name: "ProductNarrative AI"
+  short_description: "AI主导产品叙事、商务主题与图解设计，制作专业方案PDF"
+  default_prompt: "使用 $product-solution-brief，根据当前项目资料制作产品方案 PDF。先判断受众与叙事，再自主选择专业商务主题和合适图形，完成逐页评审。"
